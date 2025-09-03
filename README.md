@@ -21,12 +21,9 @@ I love building web and mobile apps that make life easier. Passionate about lear
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)  
 
----
 
-## 📈 GitHub Stats  
-![Saif's GitHub stats](https://github-readme-stats.vercel.app/api?username=saif72437&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saif72437&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=saif72437&theme=radical&border_radius=5)  
+
+
 
 
 
