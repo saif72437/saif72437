@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Saifullah Khan
 
-🚀 Full-Stack Systems Engineer | 🤖 AI & LLM Agents | 📱 Mobile (Flutter & Android) | ⛓️ Web3 (Solana)
+🚀 Full-Stack Systems Engineer | 🤖 AI & LLM Agents | 📱 Mobile (Flutter, React Native & native Android) | ⛓️ Web3 (Solana)
 
 I build **production-grade systems** — from AI agents and scalable backends to mobile apps and Web3 protocols.
 
