@@ -22,7 +22,7 @@ architecture → implementation → deployment → iteration.
   - Real-time & data-intensive applications
 
 - 📱 **Mobile Applications**
-  - Cross-platform apps with Flutter
+  - Cross-platform apps with Flutter and React Native
   - Native Android (Kotlin & Java)
   - Performance-focused UI & clean architecture
 
